@@ -1,4 +1,4 @@
-![](https://r53.cooltext.com/rendered/cooltext404058276899474.png)
+![](cooltext404058276831646.png)
 
 Estudiante en la carrera de ing. en sistemas computacionales del ITT. Se trabajar con C#, SQL, HTML Y CSS.
 
