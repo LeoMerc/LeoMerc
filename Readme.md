@@ -1,7 +1,9 @@
 ![](cooltext404058475953051.png)
 ![](cooltext404058276831646.png)
+Student in Instituto Tecnologico de Tijuana, enrolled for a major in Systems Engineering (6th Semester)
 
-Estudiante en la carrera de ing. en sistemas computacionales del ITT. Se trabajar con C#, SQL, HTML Y CSS.
+Proficient in C# .NET frameworks, SQL (SQL SERVER / MYSQL) and able to work with HTML and CSS. 
+
 
 | HORA |           **Lunes**           |           **Martes**          |         **Miercoles**         |           **Jueves**          |          **Viernes**          |
 |------|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
