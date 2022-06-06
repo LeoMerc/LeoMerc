@@ -4,7 +4,7 @@
 
 Student at Instituto Tecnologico de Tijuana, enrolled for a major in Systems Engineering (6th Semester)
 
-Proficient in C# .NET frameworks, SQL (SQL SERVER / MYSQL), HTML and able to work with Javascript, React, CSS, C++ and Kotlin. 
+Proficient in C# .NET frameworks, SQL (SQL SERVER / MYSQL), HTML, CSS, Javascript, Dart and able to work with React, C++ and Kotlin. 
 
 
 
