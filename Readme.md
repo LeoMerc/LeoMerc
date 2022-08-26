@@ -1,3 +1,10 @@
+![cooltext418007797435605](https://user-images.githubusercontent.com/81432796/186799129-6c349644-edb6-4436-85b7-9a4e513623c7.gif)
+
+
+
+![cooltext418007810383692](https://user-images.githubusercontent.com/81432796/186799150-eac752ea-c93d-415d-81d2-400a0861cf9a.gif)
+
+
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMerc&show_icons=true&theme=tokyonight)
 <div></div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMerc&theme=tokyonight&layout=compact"></img>
