@@ -7,4 +7,4 @@
 
 Proficient in C# .NET frameworks, C++, SQL (SQL SERVER / MYSQL), HTML, CSS, Javascript, Dart, Flutter and able to work with React and Kotlin.
 
-Hola, perdon por editar
+
